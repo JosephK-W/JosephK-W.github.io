@@ -20,10 +20,10 @@ author: Joseph Kouame-Waldman
 ###############################################
 
 navbar-links:
-My Links:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-About Me: "aboutme"
+    My Links:
+        - Beautiful Jekyll: "https://beautifuljekyll.com"
+        - Learn markdown: "https://www.markdowntutorial.com/"
+    About Me: "aboutme"
 # Author's home: "https://deanattali.com"
 
 ################
