@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Sewing Sampler
-subtitle: My Assignment Submission
+subtitle: 
 author: Joseph Kouame-Waldman
 ---
 
-#My Sewing Sampler
+**My Sewing Sampler
 
 
 
