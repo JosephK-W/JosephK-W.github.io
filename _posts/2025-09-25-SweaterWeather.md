@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Sewing Sampler
-subtitle: 
+title: Sweater Weather
+subtitle:
 author: Joseph Kouame-Waldman
 ---
+**Assignment Description**/
+For this assignment, we were tasked with coding if, else if, and else statements. The goal was to use a temperature integer to determine the appropriate clothing items for the specific temperature. Depending on the weather, the hypothetical outfit would change.
 
-**My Tip:\**
-It took a lot longer than I thought it would so I think it's important to stay patient. Also, while I didn't use an embroidery loop, I would definitely use one next time to save myself lots of time and effort.
+**My Tip:**/
+Since coding is still so new to me, it's crucial that I pay attention to detail and remain patient. I've found it much easier to code when I'm not worried about making mistakes.
 
-![Output](https://josephk-w.github.io/assets/img/IMG_3251.jpg)
-
+![Output](https://josephk-w.github.io/assets/img/IMG24.jpg)
+This is a screenshot of my debug console which displays the output of my code.
 
 
 
