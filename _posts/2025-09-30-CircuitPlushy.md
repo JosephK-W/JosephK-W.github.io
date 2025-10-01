@@ -16,7 +16,6 @@ This is the front of my plushy.
 ![Back](https://josephk-w.github.io/assets/img/IMG_3468.jpg)
 This is the back of my plushy.
 
-
 ![Back](https://josephk-w.github.io/assets/img/IMG_3465.jpg)
 This is the alligator prototyping stage of the assignment. This is how I tested the circuit before sewing the componenets to my plushy.
 
