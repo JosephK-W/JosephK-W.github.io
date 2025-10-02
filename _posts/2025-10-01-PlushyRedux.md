@@ -10,6 +10,6 @@ For this assignment, we were tasked with coding if, else if, and else statements
 **My Tip:**\
 Since coding is still so new to me, it's crucial that I pay attention to detail and remain patient. I've found it much easier to code when I'm not worried about making mistakes.
 
-![Output](https://josephk-w.github.io/assets/img/IMG24.jpeg)
+![Output](https://josephk-w.github.io/assets/img/Image10125.jpeg)
 This is a screenshot of my debug console which displays the output of my code.
 
