@@ -1,0 +1,15 @@
+---
+layout: post
+title: Plushy Redux
+subtitle:
+author: Joseph Kouame-Waldman
+---
+**Assignment Description**\
+For this assignment, we were tasked with coding if, else if, and else statements. The goal was to use a temperature integer to determine the appropriate clothing items for the specific temperature. Depending on the weather, the hypothetical outfit would change.
+
+**My Tip:**\
+Since coding is still so new to me, it's crucial that I pay attention to detail and remain patient. I've found it much easier to code when I'm not worried about making mistakes.
+
+![Output](https://josephk-w.github.io/assets/img/IMG24.jpeg)
+This is a screenshot of my debug console which displays the output of my code.
+
