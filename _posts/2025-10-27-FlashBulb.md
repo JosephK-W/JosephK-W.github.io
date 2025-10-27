@@ -10,6 +10,6 @@ For this assignment, we were tasked with coding a program that would print vario
 **My Tip:**\
 It was super helpful to pay attention to the indentation of my code. By clearly separating the if statements, I was able to accurately code my program.
 
-![Output](https://josephk-w.github.io/assets/img/Image1104.jpeg)
+![Output](https://josephk-w.github.io/assets/img/IMG_3590.jpeg)
 This is a picture of my arduino which displays the flashing LED.
 
