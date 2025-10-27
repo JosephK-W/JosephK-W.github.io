@@ -5,10 +5,10 @@ subtitle:
 author: Joseph Kouame-Waldman
 ---
 **Assignment Description**\
-For this assignment, we were tasked with coding a program that would print various meal options on two different menus. Depending on the integer variables, menu options would be selected from a regular or secret menu.
+For this assignment, we combined all of the firefly flashes into one code. The goal was to light up all three LED patterns on our arduinos at the same time. 
 
 **My Tip:**\
-It was super helpful to pay attention to the indentation of my code. By clearly separating the if statements, I was able to accurately code my program.
+It was important to review and revise my variables so that the code could run properly. Because I was combining the codes from all of the different firefly flashes, I had to make sure there was no overlap between them.  
 
-![Output](https://josephk-w.github.io/assets/img/Image1104.jpeg)
+![Output](https://josephk-w.github.io/assets/img/IMG_3678.jpg)
 This is a picture of my arduino which displays all of the flashing LEDs.
