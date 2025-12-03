@@ -10,5 +10,5 @@ For this assignment, we were tasked with programming our arduinos to turn a rand
 **My Tip:**\
 It was super helpful to keep track of the length of the array so that if the length changed, I only needed to change the variable.
 
-![Output](https://josephk-w.github.io/assets/img/IMG_37342.jpg)
+![Output](https://josephk-w.github.io/assets/img/IMG_0037.jpg)
 This is a picture of my arduino which displays the flashing LEDs.
