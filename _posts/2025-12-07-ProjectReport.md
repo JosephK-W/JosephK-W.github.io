@@ -46,7 +46,7 @@ This is a picture of the headband in auto mode, where the RGB LED adjusts to amb
 This is a picture of the headband in steady mode, where both LEDs stay on.
 
 **Blinking Mode**\
-![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+![Watch Video](https://josephk-w.github.io/assets/IMG_0075.MOV)
 This is a video of the headband in blinking mode, where both LEDs flash.
 
 
