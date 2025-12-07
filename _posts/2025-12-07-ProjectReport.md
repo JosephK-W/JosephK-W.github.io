@@ -24,15 +24,15 @@ Conductive Thread​
 I would definitely recommend using shorter pieces of conductive thread for sewing the circuit onto the plushy. The conductive thread would get easily tangled which was frustrating as it made the sewing component a lot more difficult and time consuming.
 
 **Paper Prototype**\
-![Paper Prototype](https://josephk-w.github.io/assets/img/IMG_3467.jpg)
+![Paper Prototype](https://josephk-w.github.io/assets/img/IMG_1070.jpg)
 This is the paper prototyping stage of the assignment. I outlined all of the components of the circuit to help me organize the circuit correctly.
 
 **Alligator Prototype**\
-![Alligator Prototype](https://josephk-w.github.io/assets/img/IMG_3468.jpg)
+![Alligator Prototype](https://josephk-w.github.io/assets/img/IMG_1054.jpg)
 This is the alligator prototyping stage of the assignment. This is how I tested the circuit before sewing the componenets onto my headband.
 
 **The Night Light Running Headband**\
-![Back](https://josephk-w.github.io/assets/img/IMG_3468.jpg)
+![Back](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
 This is a picture of the headband.
 
 **How It Works**\
