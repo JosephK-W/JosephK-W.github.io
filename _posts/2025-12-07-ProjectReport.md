@@ -32,7 +32,7 @@ This is the paper prototyping stage of the assignment. I outlined all of the com
 This is the alligator prototyping stage of the assignment. This is how I tested the circuit before sewing the componenets onto my headband.
 
 **The Night Light Running Headband**\
-![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+![Headband](https://josephk-w.github.io/assets/img/IMG_1071.jpg)
 This is a picture of the headband.
 
 **HOW IT WORKS**
@@ -42,7 +42,7 @@ This is a picture of the headband.
 This is a picture of the headband in auto mode, where the RGB LED adjusts to ambient brightness.
 
 **Steady Mode**\
-![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+![Headband](https://josephk-w.github.io/assets/img/IMG_1077.jpg)
 This is a picture of the headband in steady mode, where both LEDs stay on.
 
 **Blinking Mode**\
