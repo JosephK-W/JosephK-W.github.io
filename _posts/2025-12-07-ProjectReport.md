@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Report: The Night Light Running Headband
+title: The Night Light Running Headband
 subtitle:
 author: Joseph Kouame-Waldman
 ---
