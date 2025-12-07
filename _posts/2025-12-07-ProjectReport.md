@@ -35,10 +35,19 @@ This is the alligator prototyping stage of the assignment. This is how I tested 
 ![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
 This is a picture of the headband.
 
-**How It Works**\
+**HOW IT WORKS**
 
+**Auto Mode**\
+![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+This is a picture of the headband in auto mode, where the RGB LED adjusts to ambient brightness.
 
+**Steady Mode**\
+![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+This is a picture of the headband in steady mode, where both LEDs stay on.
 
+**Blinking Mode**\
+![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+This is a video of the headband in blinking mode, where both LEDs flash.
 
 
 
