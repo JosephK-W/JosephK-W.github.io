@@ -32,7 +32,7 @@ This is the paper prototyping stage of the assignment. I outlined all of the com
 This is the alligator prototyping stage of the assignment. This is how I tested the circuit before sewing the componenets onto my headband.
 
 **The Night Light Running Headband**\
-![Back](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
+![Headband](https://josephk-w.github.io/assets/img/IMG_1059.jpg)
 This is a picture of the headband.
 
 **How It Works**\
