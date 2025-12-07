@@ -21,7 +21,7 @@ For my final project, I created a running headband that lights up in the dark an
 Conductive Thread​
 
 **My Tips:**\
-I would definitely recommend using shorter pieces of conductive thread for sewing the circuit onto the plushy. The conductive thread would get easily tangled which was frustrating as it made the sewing component a lot more difficult and time consuming.
+The three tips I have for my past self are about using conductive thread, circuit design, and sewing electric components. First, it was extremely helpful to use short pieces of conductive thread. Conductive thread knots really easily so by using shorter pieces, I was able to create secure circuit connecctions and avoid lots of frustration from the thread knotting. Second, I realized that my original paper prototype didn't account for the actual trace patterns I would need once I sewed the components onto my headband. Because circuit traces crossing over each other would cause short circuits, it was helpful to create a paper prototype that outlined all of my traces clearly. Lastly, using an embroidery loop was so helpful for sewing the components onto my headband. My headband material was quite elastic so by using the loop to secure the part of the headband I was sewing, I was easily able to attatch the electrical components.
 
 **Paper Prototype**\
 ![Paper Prototype](https://josephk-w.github.io/assets/img/IMG_1070.jpg)
